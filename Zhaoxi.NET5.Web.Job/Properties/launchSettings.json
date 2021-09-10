@@ -1,0 +1,16 @@
+﻿{
+  
+   
+  "profiles": { 
+    "Zhaoxi.NET5.Web.Job": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:5003;",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
